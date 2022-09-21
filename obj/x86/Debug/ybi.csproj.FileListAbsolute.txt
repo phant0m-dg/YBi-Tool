@@ -1,0 +1,12 @@
+C:\Users\Phant0m\Downloads\Recovery\Recoverit 2022-09-18 at 18.59.09\H(NTFS)\Users\Phant0m\Desktop\DareGamer\Ybi Tool Test\Ybi Tool Test\bin\Debug\ybi.exe.config
+C:\Users\Phant0m\Downloads\Recovery\Recoverit 2022-09-18 at 18.59.09\H(NTFS)\Users\Phant0m\Desktop\DareGamer\Ybi Tool Test\Ybi Tool Test\bin\Debug\ybi.exe
+C:\Users\Phant0m\Downloads\Recovery\Recoverit 2022-09-18 at 18.59.09\H(NTFS)\Users\Phant0m\Desktop\DareGamer\Ybi Tool Test\Ybi Tool Test\bin\Debug\ybi.pdb
+C:\Users\Phant0m\Downloads\Recovery\Recoverit 2022-09-18 at 18.59.09\H(NTFS)\Users\Phant0m\Desktop\DareGamer\Ybi Tool Test\Ybi Tool Test\obj\x86\Debug\ybi.csproj.AssemblyReference.cache
+C:\Users\Phant0m\Downloads\Recovery\Recoverit 2022-09-18 at 18.59.09\H(NTFS)\Users\Phant0m\Desktop\DareGamer\Ybi Tool Test\Ybi Tool Test\obj\x86\Debug\ybi.AddCreds.resources
+C:\Users\Phant0m\Downloads\Recovery\Recoverit 2022-09-18 at 18.59.09\H(NTFS)\Users\Phant0m\Desktop\DareGamer\Ybi Tool Test\Ybi Tool Test\obj\x86\Debug\ybi.Form1.resources
+C:\Users\Phant0m\Downloads\Recovery\Recoverit 2022-09-18 at 18.59.09\H(NTFS)\Users\Phant0m\Desktop\DareGamer\Ybi Tool Test\Ybi Tool Test\obj\x86\Debug\ybi.Properties.Resources.resources
+C:\Users\Phant0m\Downloads\Recovery\Recoverit 2022-09-18 at 18.59.09\H(NTFS)\Users\Phant0m\Desktop\DareGamer\Ybi Tool Test\Ybi Tool Test\obj\x86\Debug\ybi.csproj.GenerateResource.cache
+C:\Users\Phant0m\Downloads\Recovery\Recoverit 2022-09-18 at 18.59.09\H(NTFS)\Users\Phant0m\Desktop\DareGamer\Ybi Tool Test\Ybi Tool Test\obj\x86\Debug\ybi.csproj.CoreCompileInputs.cache
+C:\Users\Phant0m\Downloads\Recovery\Recoverit 2022-09-18 at 18.59.09\H(NTFS)\Users\Phant0m\Desktop\DareGamer\Ybi Tool Test\Ybi Tool Test\obj\x86\Debug\ybi.csproj.CopyComplete
+C:\Users\Phant0m\Downloads\Recovery\Recoverit 2022-09-18 at 18.59.09\H(NTFS)\Users\Phant0m\Desktop\DareGamer\Ybi Tool Test\Ybi Tool Test\obj\x86\Debug\ybi.exe
+C:\Users\Phant0m\Downloads\Recovery\Recoverit 2022-09-18 at 18.59.09\H(NTFS)\Users\Phant0m\Desktop\DareGamer\Ybi Tool Test\Ybi Tool Test\obj\x86\Debug\ybi.pdb
